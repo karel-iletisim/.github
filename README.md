@@ -1,1 +1,0 @@
-![Header](./karel-header.png)
