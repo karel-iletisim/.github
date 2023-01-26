@@ -7,7 +7,7 @@
 
 - [Kampanyalar](https://www.karel.net.tr/kampanyalar)
 - Hizmetler
-  - [İnternet Hizmeti](https://demo.karel.net.tr/hizmetler/internet)
-  - [VOIP - Ses Hizmeti](https://demo.karel.net.tr/hizmetler/voip)
-  - [Dijital Faks Hizmeti](https://demo.karel.net.tr/hizmetler/faks)
-  - [Bulut Santral Hizmeti](https://demo.karel.net.tr/hizmetler/bulut_santral)
+  - [İnternet Hizmeti](https://www.karel.net.tr/hizmetler/internet)
+  - [VOIP - Ses Hizmeti](https://www.karel.net.tr/hizmetler/voip)
+  - [Dijital Faks Hizmeti](https://www.karel.net.tr/hizmetler/faks)
+  - [Bulut Santral Hizmeti](https://www.karel.net.tr/hizmetler/bulut_santral)
